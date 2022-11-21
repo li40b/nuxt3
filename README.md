@@ -40,4 +40,14 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
 # nuxt3
+
+## 追加パッケージ
+- ESLint本体のインストール
+  - `$ npm install --save-dev eslint`
+- eslint-plugin-vueのインストール
+  - `$ npm install --save-dev eslint-plugin-vue`
+- TypeScript関連のESLintプラグインのインストール
+  - `$ npm install --save-dev @typescript-eslint/eslint-plugin @typescript-eslint/parser @nuxtjs/eslint-config-typescript`
