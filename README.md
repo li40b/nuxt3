@@ -44,6 +44,8 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 # nuxt3
 
+## 初期構築用
+
 ## 追加パッケージ
 - ESLint本体のインストール
   - `$ npm install --save-dev eslint`
